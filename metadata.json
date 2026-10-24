@@ -1,0 +1,6 @@
+{
+  "name": "Питончик: Веб-тренажёр Python для детей",
+  "description": "Интерактивный веб-тренажёр по программированию на Python для детей с автопроверкой, подсказками и пошаговыми уроками.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
